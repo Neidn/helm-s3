@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 
 PROJECT_NAME="helm-s3"
 PROJECT_GH="hypnoglow/$PROJECT_NAME"
